@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int print_sum(int, int);
+int print_sum(int a, int b);
 
 int main(void)
 {
